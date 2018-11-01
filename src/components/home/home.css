@@ -1,0 +1,55 @@
+.backgroundform {
+    background-color:#FFFFFF;
+    margin: 0;
+    height:100%;
+    width:100%;
+  }
+  
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background:  #385381; 
+    height: 50px;
+    margin: 0;
+    color: #333;
+    width: 100%;
+       
+}  
+
+.containerImage{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    margin: 10px;
+    width: 100%;
+       
+}
+.divImagem{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+
+.divsize {
+    margin-left: 10px;   
+    margin-right: 10px;
+}
+
+.divbutton {
+    font-size: 16px;
+    align-content: center;
+}
+
+.card .card-content {
+    padding: 10px;
+}
+
+.hidden-check1 {
+    display: none;  
+    }
+  
+  .hidden-check2 {
+    visibility: hidden;
+  }

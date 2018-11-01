@@ -1,0 +1,30 @@
+.backgroundform {
+    background-color:#FFFFFF;
+    margin: 0;
+    height:100%;
+  }
+  
+.divsize {
+    margin-left: 10px;   
+}
+
+.divbutton {
+    font-size: 16px;
+    align-content: center;
+}
+
+.card .card-content {
+    padding: 10px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background:  #385381; 
+    height: 50px;
+    margin: 0;
+    color: #333;
+    width: 100%;
+       
+} 
